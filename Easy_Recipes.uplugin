@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.9",
+	"VersionName": "1.1.1",
 	"FriendlyName": "Easy_Recipes",
 	"Description": "",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "1.0.9",
+	"SemVersion": "1.1.1",
 	"GameVersion": ">=365306"
 }
