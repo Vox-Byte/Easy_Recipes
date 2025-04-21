@@ -1,4 +1,4 @@
-# Easy_Recipes
+# Easy Recipes
 
 Easy Recipes is a mod that aim's to simplyfy some of the recipes by changing some of the required resource amounts to make them easier to produce Below is some examples of recipes between vanilla and the mod there will also be added some alternatives to the vanilla recipes
 
