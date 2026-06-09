@@ -3445,9 +3445,9 @@ ConfigSystem.<Editor>.Input:/Script/FactoryGame.FGInputSettings:PlatformInlineTe
 ConfigSystem.<Editor>.Input:/Script/InputEditor.EnhancedInputEditorProjectSettings:DefaultEditorInputClass:0=/Script/FactoryGame.FGPlayerInput
 ConfigSystem.<Editor>.Input:EnhancedInputPlatformSettings_Windows EnhancedInputPlatformSettings:bShouldLogMappingContextRedirects:0=False
 ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:0=(InputClassName="WindowsApplication",HardwareDeviceIdentifier="KBM",PrimaryDeviceType=KeyboardAndMouse,SupportedFeaturesMask=3)
-ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:1=(InputClassName="XInputInterface",HardwareDeviceIdentifier="XInputController",PrimaryDeviceType=Gamepad,SupportedFeaturesMask=260)
-ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:2=(InputClassName="FWinDualShock",HardwareDeviceIdentifier="DualSense",PrimaryDeviceType=Gamepad,SupportedFeaturesMask=1996)
-ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:3=(InputClassName="FWinDualShock",HardwareDeviceIdentifier="DualShock4",PrimaryDeviceType=Gamepad,SupportedFeaturesMask=332)
+ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:1=(InputClassName="FWinDualShock",HardwareDeviceIdentifier="DualSense",PrimaryDeviceType=Gamepad,SupportedFeaturesMask=1996)
+ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:2=(InputClassName="FWinDualShock",HardwareDeviceIdentifier="DualShock4",PrimaryDeviceType=Gamepad,SupportedFeaturesMask=332)
+ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:3=(InputClassName="XInputInterface",HardwareDeviceIdentifier="XInputController",PrimaryDeviceType=Gamepad,SupportedFeaturesMask=260)
 ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:input.DeviceMappingPolicy:0=1
 ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:MaxPlatformUserCount:0=8
 ConfigSystem.<Editor>.Scalability:AntiAliasingQuality@3:r.FXAA.Quality:0=4
